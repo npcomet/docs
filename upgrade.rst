@@ -484,7 +484,7 @@
 
     $ mkdir data
     $ mv keys data/
-    $ ./coocd start -d
+    $ ./cocod start -d
 
 docker 部署的 coco
 
